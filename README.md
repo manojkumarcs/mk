@@ -3,6 +3,16 @@
 
 ![](resources/image8.gif)
 
+<!-- Keep these links. Translations will automatically update with the README. -->
+[Deutsch](https://zdoc.app/de/Hannibal046/Awesome-LLM) | 
+[Español](https://zdoc.app/es/Hannibal046/Awesome-LLM) | 
+[français](https://zdoc.app/fr/Hannibal046/Awesome-LLM) | 
+[日本語](https://zdoc.app/ja/Hannibal046/Awesome-LLM) | 
+[한국어](https://zdoc.app/ko/Hannibal046/Awesome-LLM) | 
+[Português](https://zdoc.app/pt/Hannibal046/Awesome-LLM) | 
+[Русский](https://zdoc.app/ru/Hannibal046/Awesome-LLM) | 
+[中文](https://zdoc.app/zh/Hannibal046/Awesome-LLM)
+
 🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.
 
 ## Trending LLM Projects
