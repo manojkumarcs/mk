@@ -400,6 +400,7 @@
 ## LLM Evaluation:
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 - [lighteval](https://github.com/huggingface/lighteval) - a lightweight LLM evaluation suite that Hugging Face has been using internally.
+- [llm-testlab](https://github.com/Saivineeth147/llm-testlab) - Python toolkit for testing, evaluating, and benchmarking large language models with metrics like semantic similarity, consistency, Hallucination and safety checks.
 - [simple-evals](https://github.com/openai/simple-evals) - Eval tools by OpenAI.
 
 <details>
