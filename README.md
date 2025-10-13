@@ -484,6 +484,7 @@
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) — A Python library for augmenting LLM apps with data.
+- [Neurolink](https://github.com/juspay/neurolink) - Multi-provider AI agent framework that unifies 12+ providers (OpenAI, Google, Anthropic, AWS, Azure, Groq, etc.) with workflow orchestration. Production-ready with streaming, tool calling, caching, and enterprise features. Handles 15M+ requests/month.
 
 <details>
 <summary>more applications</summary>
