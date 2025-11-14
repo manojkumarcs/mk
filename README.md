@@ -595,6 +595,12 @@
 - [Open Pretrained Transformers](https://www.youtube.com/watch?v=p9IxoSkvZ-M&t=4s)
 - [Scaling, emergence, and reasoning in large language models](https://docs.google.com/presentation/d/1EUV7W7X_w0BDrscDhPg7lMGzJCkeaPkGCJ3bN8dluXc/edit?pli=1&resourcekey=0-7Nz5A7y8JozyVrnDtcEKJA#slide=id.g16197112905_0_0)
 
+### Tools
+
+#### Data Formats / Serialization
+- [TOON PHP Lite](https://github.com/manojrammurthy/toon-php-lite) – Lightweight PHP encoder/decoder for TOON, a human-readable and LLM-friendly structured data format designed to reduce JSON parsing issues in AI workflows.
+
+
 ## Miscellaneous
 
 
