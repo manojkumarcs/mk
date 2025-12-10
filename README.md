@@ -400,6 +400,7 @@
 ## LLM Evaluation:
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 - [lighteval](https://github.com/huggingface/lighteval) - a lightweight LLM evaluation suite that Hugging Face has been using internally.
+- [promptfoo](https://github.com/promptfoo/promptfoo) - Test and evaluate LLM applications. Compare prompts, models, and RAG systems. Includes red teaming with adversarial attacks and CI/CD integration.
 - [simple-evals](https://github.com/openai/simple-evals) - Eval tools by OpenAI.
 
 <details>
