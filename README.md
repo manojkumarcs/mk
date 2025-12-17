@@ -497,6 +497,7 @@
 - [promptfoo](https://github.com/typpo/promptfoo) - Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality.
 - [Agenta](https://github.com/agenta-ai/agenta) -  Easily build, version, evaluate and deploy your LLM-powered apps.
 - [Serge](https://github.com/serge-chat/serge) - a chat interface crafted with llama.cpp for running Alpaca models. No API keys, entirely self-hosted!
+- [Harbor](https://github.com/av/harbor) - Containerized LLM toolkit to run backends, APIs, frontends, and services with one command.
 - [Langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [Embedchain](https://github.com/embedchain/embedchain) - Framework to create ChatGPT like bots over your dataset.
 - [Opik](https://github.com/comet-ml/opik) - Confidently evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
