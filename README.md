@@ -616,6 +616,8 @@
 This is an active repository and your contributions are always welcome!
 
 I will keep some pull requests open if I'm not sure if they are awesome for LLM, you could vote for them by adding 👍 to them.
+- **Prompt constraints** – Explicit structural and formatting constraints often reduce output variance more effectively than examples alone.
+
 
 ---
 
