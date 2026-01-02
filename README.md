@@ -531,6 +531,7 @@
 - [OpenAI Evals](https://github.com/openai/evals) — An open-source library for evaluating task performance of language models and prompts.
 
 - [Arthur Shield](https://www.arthur.ai/get-started) — A paid product for detecting toxicity, hallucination, prompt injection, etc.
+- [Vedika](https://vedika.io) - AI-powered Vedic astrology API with LLM-based natural language queries. Ask questions like "When should I start my business?" and get intelligent astrological insights. 108+ endpoints, 22 languages, free sandbox.
 - [LMQL](https://lmql.ai) — A programming language for LLM interaction with support for typed prompting, control flow, constraints, and tools.
 - [ModelFusion](https://github.com/lgrammel/modelfusion) - A TypeScript library for building apps with LLMs and other ML models (speech-to-text, text-to-speech, image generation).
 - [OneKE](https://openspg.yuque.com/ndx6g9/ps5q6b/vfoi61ks3mqwygvy) — A bilingual Chinese-English knowledge extraction model with knowledge graphs and natural language processing technologies.
