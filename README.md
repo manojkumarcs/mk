@@ -532,6 +532,7 @@
 
 - [Arthur Shield](https://www.arthur.ai/get-started) — A paid product for detecting toxicity, hallucination, prompt injection, etc.
 - [LMQL](https://lmql.ai) — A programming language for LLM interaction with support for typed prompting, control flow, constraints, and tools.
+- [LLMRTC](https://github.com/llmrtc/llmrtc) - Open-source TypeScript SDK for building real-time voice & vision AI agents over WebRTC (STT/LLM/TTS orchestration). ([Docs](https://www.llmrtc.org/))
 - [ModelFusion](https://github.com/lgrammel/modelfusion) - A TypeScript library for building apps with LLMs and other ML models (speech-to-text, text-to-speech, image generation).
 - [OneKE](https://openspg.yuque.com/ndx6g9/ps5q6b/vfoi61ks3mqwygvy) — A bilingual Chinese-English knowledge extraction model with knowledge graphs and natural language processing technologies.
 - [llm-ui](https://github.com/llm-ui-kit/llm-ui) - A React library for building LLM UIs.
