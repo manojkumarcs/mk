@@ -457,6 +457,7 @@
 - [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [TGI](https://huggingface.co/docs/text-generation-inference/en/index) - a toolkit for deploying and serving Large Language Models (LLMs).
 - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - Nvidia Framework for LLM Inference
+- [Kairos.local](https://github.com/avikeid2007/Kairos.local) - Run LLMs locally with GPU acceleration, a built-in model catalog, chat interface, and local REST API.
 <details>
 <summary>other deployment tools</summary>
 
