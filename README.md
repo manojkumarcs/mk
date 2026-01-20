@@ -475,6 +475,7 @@
 - [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training.
 - [prima.cpp](https://github.com/Lizonghang/prima.cpp) - A distributed implementation of llama.cpp that lets you run 70B-level LLMs on your everyday devices.
 - [deploy-llms-with-ansible](https://github.com/xamey/deploy-llms-with-ansible) - Easily deploy any LLM on a VM with minimal configuration, using Ansible.
+- [Headroom](https://github.com/chopratejas/headroom) - Token optimization middleware that compresses tool outputs by 50-90% using statistical analysis. Reduces inference costs while preserving critical information through reversible CCR compression.
 
 </details>
 
@@ -548,6 +549,7 @@
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more.
 - [LangWatch](https://github.com/langwatch/langwatch) - Open-source LLM observability, prompt evaulation, and prompt optimzation platform.
 - [TensorZero](https://www.tensorzero.com/) - TensorZero is an open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
+- [Headroom](https://github.com/chopratejas/headroom) - Context optimization layer that compresses LLM tool outputs by 50-90% without information loss. Features statistical analysis, reversible CCR compression, and native integrations with LangChain, MCP, and Agno.
 
 </details>
 
