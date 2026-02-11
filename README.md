@@ -507,6 +507,7 @@
 - [Tune Studio](https://studio.tune.app/) - Playground for devs to finetune & deploy LLMs
 - [LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - Locally running websearch using LLM chains
 - [AI Gateway](https://github.com/Portkey-AI/gateway) — Gateway streamlines requests to 100+ open & closed source models with a unified API. It is also production-ready with support for caching, fallbacks, retries, timeouts, loadbalancing, and can be edge-deployed for minimum latency.
+- [Lava AI Spend](https://lava.so) — Per-tool budget controls and spend limits for AI API keys. Supports 38+ providers through a single OpenAI-compatible endpoint.
 - [talkd.ai dialog](https://github.com/talkdai/dialog) - Simple API for deploying any RAG or LLM that you want adding plugins.
 - [Wllama](https://github.com/ngxson/wllama) - WebAssembly binding for llama.cpp - Enabling in-browser LLM inference
 - [GPUStack](https://github.com/gpustack/gpustack) - An open-source GPU cluster manager for running LLMs
