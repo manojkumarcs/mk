@@ -455,6 +455,7 @@
 - [vLLM](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++.
 - [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+- [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - A self-hostable AI gateway with 4-tier cascading fallback, multi-provider load balancing, and OpenAI-compatible API. Supports 200+ models across OpenAI, Anthropic, Google, and local providers.
 - [TGI](https://huggingface.co/docs/text-generation-inference/en/index) - a toolkit for deploying and serving Large Language Models (LLMs).
 - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - Nvidia Framework for LLM Inference
 <details>
