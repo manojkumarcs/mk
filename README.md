@@ -153,6 +153,7 @@
 - [LiveBench](https://livebench.ai/#/) - A Challenging, Contamination-Free LLM Benchmark.
 - [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) - aims to track, rank, and evaluate LLMs and chatbots as they are released.
 - [AlpacaEval](https://tatsu-lab.github.io/alpaca_eval/) - An Automatic Evaluator for Instruction-following Language Models using Nous benchmark suite.
+- [Onyx Open LLM Leaderboard](https://www.onyx.app/open-llm-leaderboard) - a comprehensive ranking of open-source LLMs compared across reasoning, coding, math, and other key benchmarks, with scores sourced from official tech reports.
 <details>
   <summary> other leaderboards </summary>
 
