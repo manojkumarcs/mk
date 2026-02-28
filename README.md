@@ -39,7 +39,7 @@
 <summary> milestone papers </summary>
   
 |   Date  |       keywords       |      Institute     |                                                                                                        Paper                                                                                                       |
-|:-------:|:--------------------:|:------------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:-------:|:--------------------:|:------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2017-06 |     Transformers     |       Google       | [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)                                                                                                                                                  |
 | 2018-06 |        GPT 1.0       |       OpenAI       | [Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)                                                                             |
 | 2018-10 |         BERT         |       Google       | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://aclanthology.org/N19-1423.pdf)                                                                                          |
@@ -396,6 +396,7 @@
 - [Datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
 - [Dingo](https://github.com/DataEval/dingo) - Dingo: A Comprehensive Data Quality Evaluation Tool
 - [FastDatasets](https://github.com/ZhuLinsen/FastDatasets) - A powerful tool for creating high-quality training datasets for Large Language Models
+- [AI Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker) - Structured, source-backed dataset tracking 95 AI-attributed workforce reduction events affecting 454,725 workers across 13 countries and 13 sectors. Three-tier attribution methodology (confirmed/probable/unverified). CC-BY-4.0.
 
 ## LLM Evaluation:
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
@@ -545,7 +546,7 @@
 - [Arize-Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment. Monitor and fine tune LLM, CV and Tabular Models.
 - [LLM]([https://github.com/simonw/llm) - A CLI utility and Python library for interacting with Large Language Models, both via remote APIs and models that can be installed and run on your own machine.
 - [Just-Chat](https://github.com/longevity-genie/just-chat) - Make your LLM agent and chat with it simple and fast!
-- [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more.
+- [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow's source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more.
 - [LangWatch](https://github.com/langwatch/langwatch) - Open-source LLM observability, prompt evaulation, and prompt optimzation platform.
 - [TensorZero](https://www.tensorzero.com/) - TensorZero is an open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
 
