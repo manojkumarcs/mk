@@ -27,6 +27,7 @@
   - [LLM Training Framework](#llm-training-frameworks)
   - [LLM Inference](#llm-inference)
   - [LLM Applications](#llm-applications)
+- [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
   - [LLM Tutorials and Courses](#llm-tutorials-and-courses)
   - [LLM Books](#llm-books)
   - [Great thoughts about LLM](#great-thoughts-about-llm)
