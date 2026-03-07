@@ -1,4 +1,4 @@
-
+﻿
 # Awesome-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![](resources/image8.gif)
@@ -452,6 +452,7 @@
 
 > Reference: [llm-inference-solutions](https://github.com/mani-kantap/llm-inference-solutions)
 - [SGLang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
+- [tokio-prompt-orchestrator](https://github.com/Mattbusel/tokio-prompt-orchestrator) - Production-grade Rust/Tokio orchestrator for LLM pipelines: circuit breakers, deduplication, rate limiting, backpressure, and self-tuning. Zero panics.
 - [vLLM](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++.
 - [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
