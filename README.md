@@ -396,6 +396,7 @@
 - [Datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
 - [Dingo](https://github.com/DataEval/dingo) - Dingo: A Comprehensive Data Quality Evaluation Tool
 - [FastDatasets](https://github.com/ZhuLinsen/FastDatasets) - A powerful tool for creating high-quality training datasets for Large Language Models
+- [AI Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker) - A structured dataset tracking 121 AI-attributed workforce displacement events across 15 countries (496,000+ workers). Provides firm-level evidence of LLM/AI impact on employment with source-verified attribution.
 
 ## LLM Evaluation:
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
