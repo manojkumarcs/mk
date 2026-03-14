@@ -484,6 +484,7 @@
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) — A Python library for augmenting LLM apps with data.
+- [kbot](https://github.com/isaacsight/kernel) — An open-source terminal AI agent with 39 specialist agents, 167 tools, and 19 provider integrations. Local-first, self-evolving, multi-provider. Install via `npm install -g @kernel.chat/kbot`.
 
 <details>
 <summary>more applications</summary>
