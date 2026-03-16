@@ -551,6 +551,8 @@
 
 </details>
 
+- [Arch Tools](https://archtools.dev) - 58 API tools behind one key. MCP native + x402 USDC payments on 15 chains. Web scraping, AI generation, crypto, voice, email, and more.
+
 ## LLM Tutorials and Courses
 - [Andrej Karpathy Series](https://www.youtube.com/@AndrejKarpathy) - My favorite!
 - [Umar Jamil Series](https://www.youtube.com/@umarjamilai) - high quality and educational videos you don't want to miss.
