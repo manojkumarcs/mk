@@ -410,6 +410,7 @@
 - [HELM](https://github.com/stanford-crfm/helm) - Holistic Evaluation of Language Models (HELM), a framework to increase the transparency of language models.
 - [instruct-eval](https://github.com/declare-lab/instruct-eval) - This repository contains code to quantitatively evaluate instruction-tuned models such as Alpaca and Flan-T5 on held-out tasks.
 - [Giskard](https://github.com/Giskard-AI/giskard) - Testing & evaluation library for LLM applications, in particular RAGs
+- [llmtest](https://github.com/sazed5055/llmtest) - pytest for LLM apps. Test for grounding failures, prompt injection, safety violations, and regressions.
 - [LangSmith](https://www.langchain.com/langsmith) - a unified platform from LangChain framework for: evaluation, collaboration HITL (Human In The Loop), logging and monitoring LLM applications.  
 - [Ragas](https://github.com/explodinggradients/ragas) - a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.
 
