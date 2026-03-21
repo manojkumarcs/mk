@@ -540,6 +540,7 @@
 - [Dify](https://github.com/langgenius/dify) - An open-source LLM app development platform with an intuitive interface that streamlines AI workflows, model management, and production deployment.
 - [LazyLLM](https://github.com/LazyAGI/LazyLLM) - An open-source LLM app for building multi-agent LLMs applications in an easy and lazy way, supports model deployment and fine-tuning.
 - [MemFree](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment
+- [Remembra](https://github.com/remembra-ai/remembra) - Persistent memory layer for AI agents with hybrid search, entity resolution, PII detection, and AES-256-GCM encryption at rest. Self-hosted via Docker.
 - [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - Open source AutoML tool for RAG. Optimize the RAG answer quality automatically. From generation evaluation datset to deploying optimized RAG pipeline.
 - [Epsilla](https://github.com/epsilla-cloud) - An all-in-one LLM Agent platform with your private data and knowledge, delivers your production-ready AI Agents on Day 1.
 - [Arize-Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment. Monitor and fine tune LLM, CV and Tabular Models.
