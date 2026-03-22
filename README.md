@@ -484,6 +484,7 @@
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) — A Python library for augmenting LLM apps with data.
+- [Memstore](https://memstore.dev) — Persistent memory REST API for AI agents. Store and recall context semantically across runs using pgvector. Works with LangChain, CrewAI, and AutoGen.
 
 <details>
 <summary>more applications</summary>
