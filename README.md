@@ -444,6 +444,7 @@
   - [TRL](https://huggingface.co/docs/trl/en/index) - TRL is a full stack library where we provide a set of tools to train transformer language models with Reinforcement Learning, from the Supervised Fine-tuning step (SFT), Reward Modeling step (RM) to the Proximal Policy Optimization (PPO) step.
   - [unslothai](https://github.com/unslothai/unsloth) - A framework that specializes in efficient fine-tuning. On its GitHub page, you can find ready-to-use fine-tuning templates for various LLMs, allowing you to easily train your own data for free on the Google Colab cloud.
   - [Axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Open-source framework for fine-tuning and evaluating LLMs. It simplifies the process of experimenting with different training configurations and makes it easy to reproduce and share results, supporting features like LoRA, QLoRA, DeepSpeed, PEFT, and multi-GPU setups.
+  - [PH Training](https://github.com/need-singularity/ph-training) - Persistent Homology-based training framework for LLMs. Uses topological data analysis to detect overfitting 2 epochs earlier than traditional metrics. Drop-in replacement for standard training loops.
 
 </details>
 
