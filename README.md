@@ -620,5 +620,6 @@ I will keep some pull requests open if I'm not sure if they are awesome for LLM,
 ---
 
 If you have any question about this opinionated list, do not hesitate to contact me chengxin1998@stu.pku.edu.cn.
+- [crdt-merge](https://github.com/mgillr/crdt-merge) - The first merge library where every operation is mathematically guaranteed to converge. Conflict-free merge for DataFrames, JSON, ML model weights & distributed agent state — powered by CRDTs.
 
 [^1]: This is not legal advice. Please contact the original authors of the models for more information.
