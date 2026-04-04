@@ -548,6 +548,7 @@
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more.
 - [LangWatch](https://github.com/langwatch/langwatch) - Open-source LLM observability, prompt evaulation, and prompt optimzation platform.
 - [TensorZero](https://www.tensorzero.com/) - TensorZero is an open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
+- [DockWright](https://github.com/AdelElo13/DockWright-MacOS-Agent) - Native macOS AI assistant built in Swift with zero dependencies. Features screen awareness, voice control, and 30 system tools. Supports 9 LLM providers (Claude, OpenAI, Gemini, Grok, Ollama, and more).
 
 </details>
 
