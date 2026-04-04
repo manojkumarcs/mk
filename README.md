@@ -481,6 +481,7 @@
 
 ## LLM Applications
 > Reference: [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- [LongTrainer](https://github.com/ENDEVSOLS/Long-Trainer) — A production-ready RAG framework that turns your documents into intelligent, multi-tenant chatbots with tool calling, persistent memory, and streaming capability.
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) — A Python library for augmenting LLM apps with data.
