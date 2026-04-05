@@ -506,6 +506,7 @@
 - [Robocorp](https://github.com/robocorp/robocorp) - Create, deploy and operate Actions using Python anywhere to enhance your AI agents and assistants. Batteries included with an extensive set of libraries, helpers and logging.
 - [Tune Studio](https://studio.tune.app/) - Playground for devs to finetune & deploy LLMs
 - [LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - Locally running websearch using LLM chains
+- [local-cli-agent](https://github.com/suebi76/local-cli-agent) - Terminal coding agent with master orchestrator, 15 specialist profiles, undo system and watch mode. Runs on Ollama or LM Studio. No API key required.
 - [AI Gateway](https://github.com/Portkey-AI/gateway) — Gateway streamlines requests to 100+ open & closed source models with a unified API. It is also production-ready with support for caching, fallbacks, retries, timeouts, loadbalancing, and can be edge-deployed for minimum latency.
 - [talkd.ai dialog](https://github.com/talkdai/dialog) - Simple API for deploying any RAG or LLM that you want adding plugins.
 - [Wllama](https://github.com/ngxson/wllama) - WebAssembly binding for llama.cpp - Enabling in-browser LLM inference
