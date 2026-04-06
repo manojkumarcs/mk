@@ -475,6 +475,7 @@
 - [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training.
 - [prima.cpp](https://github.com/Lizonghang/prima.cpp) - A distributed implementation of llama.cpp that lets you run 70B-level LLMs on your everyday devices.
 - [deploy-llms-with-ansible](https://github.com/xamey/deploy-llms-with-ansible) - Easily deploy any LLM on a VM with minimal configuration, using Ansible.
+- [OpenNode](https://onc.mom) - A decentralized AI inference network with 100% OpenAI-compatible API. Drop-in replacement for OpenAI/Anthropic/Gemini at 40-70% lower cost. GPU owners earn 95% of inference revenue in real-time.
 
 </details>
 
