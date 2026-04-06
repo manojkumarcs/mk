@@ -481,6 +481,8 @@
 
 ## LLM Applications
 > Reference: [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- **Novel Writer Suite** — Zero-cost Chinese novel writing with OpenClaw. [900K+ chars, ¥0 API, 3 skills](https://github.com/Shine8592/novel-writer-skills)
+
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) — A Python library for augmenting LLM apps with data.
