@@ -611,6 +611,8 @@
 - [chatgpt-shroud](https://github.com/guyShilo/chatgpt-shroud) - A Chrome extension for OpenAI's ChatGPT, enhancing user privacy by enabling easy hiding and unhiding of chat history. Ideal for privacy during screen shares.
 - [AI For Developers](https://aifordevelopers.org) - List of AI Tools and Agents for Developers
 
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
+
 ## Contributing
 
 This is an active repository and your contributions are always welcome!
