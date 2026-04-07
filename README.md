@@ -548,6 +548,8 @@
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more.
 - [LangWatch](https://github.com/langwatch/langwatch) - Open-source LLM observability, prompt evaulation, and prompt optimzation platform.
 - [TensorZero](https://www.tensorzero.com/) - TensorZero is an open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
+- [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source prospects from 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native.
+- [Signals CLI](https://github.com/sortlist/signals-cli) - Intent signal monitoring. Track LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines.
 
 </details>
 
