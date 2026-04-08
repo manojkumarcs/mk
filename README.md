@@ -551,6 +551,7 @@
 
 </details>
 
+- [Gitstar](https://gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=Hannibal046_Awesome-LLM) - Social feed for GitHub. Follow AI/ML researchers and devs, discover trending repos in the AI space early.
 ## LLM Tutorials and Courses
 - [Andrej Karpathy Series](https://www.youtube.com/@AndrejKarpathy) - My favorite!
 - [Umar Jamil Series](https://www.youtube.com/@umarjamilai) - high quality and educational videos you don't want to miss.
