@@ -445,6 +445,8 @@
   - [unslothai](https://github.com/unslothai/unsloth) - A framework that specializes in efficient fine-tuning. On its GitHub page, you can find ready-to-use fine-tuning templates for various LLMs, allowing you to easily train your own data for free on the Google Colab cloud.
   - [Axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Open-source framework for fine-tuning and evaluating LLMs. It simplifies the process of experimenting with different training configurations and makes it easy to reproduce and share results, supporting features like LoRA, QLoRA, DeepSpeed, PEFT, and multi-GPU setups.
 
+  - [S₀ Tuning](https://github.com/JackYoung27/s0-tuning) - Optimizes the initial recurrent state of hybrid LLMs (GatedDeltaNet, Mamba-2) as a PEFT method. Zero inference overhead.
+
 </details>
 
 
