@@ -490,6 +490,7 @@
 
 
 - [MLflow](https://mlflow.org/) - MLflow: An open-source framework for the end-to-end machine learning lifecycle, helping developers track experiments, evaluate models/prompts, deploy models, and add observability with tracing.
+- [Math Swarm](https://github.com/michaelwinczuk/math-swarm) - Zero-hallucination computation engine for LLMs. Replaces token prediction with SymPy symbolic math. 1,079 tests, 12 categories, 100% accuracy. Benchmarked: 3B (55%) vs 7B (77%) vs 32B (93%) vs Math Swarm (100%). Includes 15 healthcare clinical formulas.
 - [Swiss Army Llama](https://github.com/Dicklesworthstone/swiss_army_llama) - Comprehensive set of tools for working with local LLMs for various tasks.
 - [LiteChain](https://github.com/rogeriochaves/litechain) - Lightweight alternative to LangChain for composing LLMs 
 - [magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
