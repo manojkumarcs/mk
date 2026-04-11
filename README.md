@@ -551,6 +551,7 @@
 
 </details>
 
+Add to LLM Applications section, under Agent Frameworks. Highlight orchestration and deployment automation.
 ## LLM Tutorials and Courses
 - [Andrej Karpathy Series](https://www.youtube.com/@AndrejKarpathy) - My favorite!
 - [Umar Jamil Series](https://www.youtube.com/@umarjamilai) - high quality and educational videos you don't want to miss.
