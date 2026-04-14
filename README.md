@@ -457,6 +457,7 @@
 - [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [TGI](https://huggingface.co/docs/text-generation-inference/en/index) - a toolkit for deploying and serving Large Language Models (LLMs).
 - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - Nvidia Framework for LLM Inference
+- [rl-router](https://github.com/ElromEvedElElyon/rl-router) - Contextual Thompson Sampling router for multi-provider LLM APIs. Adapts to rate limits and failures across OpenAI, Anthropic, Google, and local models. Zero config, zero deps.
 <details>
 <summary>other deployment tools</summary>
 
