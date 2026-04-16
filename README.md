@@ -610,6 +610,8 @@
 - [EasyEdit](https://github.com/zjunlp/EasyEdit) - An easy-to-use framework to edit large language models.
 - [chatgpt-shroud](https://github.com/guyShilo/chatgpt-shroud) - A Chrome extension for OpenAI's ChatGPT, enhancing user privacy by enabling easy hiding and unhiding of chat history. Ideal for privacy during screen shares.
 - [AI For Developers](https://aifordevelopers.org) - List of AI Tools and Agents for Developers
+- [Not Human Search](https://nothumansearch.ai) - Search engine for AI-native tools and MCP servers. 8,600+ indexed sites with agentic scores.
+- [AI Dev Jobs](https://aidevboard.com) - AI developer job board with REST API and MCP server. 5,000+ positions across ML, NLP, and LLM roles.
 
 ## Contributing
 
