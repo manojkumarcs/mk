@@ -594,6 +594,7 @@
 - [How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)
 - [Open Pretrained Transformers](https://www.youtube.com/watch?v=p9IxoSkvZ-M&t=4s)
 - [Scaling, emergence, and reasoning in large language models](https://docs.google.com/presentation/d/1EUV7W7X_w0BDrscDhPg7lMGzJCkeaPkGCJ3bN8dluXc/edit?pli=1&resourcekey=0-7Nz5A7y8JozyVrnDtcEKJA#slide=id.g16197112905_0_0)
+- [Field notes from shipping LLM agents to production](https://hemangjoshi37a.github.io/hjLabs-AI-Engineering-Notes/) - Five deep-dives on agent deployment, RAG systems, framework choice (CrewAI vs LangGraph vs AutoGen), and enterprise AI procurement.
 
 ## Miscellaneous
 
