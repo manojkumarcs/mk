@@ -401,6 +401,7 @@
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 - [lighteval](https://github.com/huggingface/lighteval) - a lightweight LLM evaluation suite that Hugging Face has been using internally.
 - [simple-evals](https://github.com/openai/simple-evals) - Eval tools by OpenAI.
+- [BenchGecko](https://benchgecko.ai) - AI benchmark and pricing data. Compare 414+ LLMs across 40 benchmarks (MMLU, HumanEval, GSM8K, etc.) with a free API. Every model. Every agent. Everything AI. Tracked. [[API Docs]](https://benchgecko.ai/api-docs)
 
 <details>
 <summary>other evaluation frameworks</summary>
