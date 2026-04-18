@@ -157,6 +157,7 @@
   <summary> other leaderboards </summary>
 
 - [ACLUE](https://github.com/isen-zhang/ACLUE) - an evaluation benchmark focused on ancient Chinese language comprehension. 
+- [BenchClaw](https://www.p2pclaw.com/app/benchmark) - a public leaderboard that benchmarks any LLM agent across 10 dimensions (reasoning, math, code, tool use, factual accuracy, creativity, coherence, safety, efficiency, reproducibility) plus an override Tribunal IQ, via a 17-judge tribunal with 8 deception detectors.
 - [BeHonest](https://gair-nlp.github.io/BeHonest/#leaderboard) - A pioneering benchmark specifically designed to assess honesty in LLMs comprehensively. 
 - [Berkeley Function-Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html) - evaluates LLM's ability to call external functions/tools.
 - [Chinese Large Model Leaderboard](https://github.com/jeinlee1991/chinese-llm-benchmark) - an expert-driven benchmark for Chineses LLMs.
