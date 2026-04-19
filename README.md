@@ -457,6 +457,7 @@
 - [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [TGI](https://huggingface.co/docs/text-generation-inference/en/index) - a toolkit for deploying and serving Large Language Models (LLMs).
 - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - Nvidia Framework for LLM Inference
+- [OpenPaths](https://openpaths.io) - Open source model router with a universal API for LLMs, supporting smart routing across providers.
 <details>
 <summary>other deployment tools</summary>
 
@@ -548,6 +549,7 @@
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more.
 - [LangWatch](https://github.com/langwatch/langwatch) - Open-source LLM observability, prompt evaulation, and prompt optimzation platform.
 - [TensorZero](https://www.tensorzero.com/) - TensorZero is an open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
+- [Text-Generator.io](https://text-generator.io) - Unified text, vision, and speech API with ChatGPT-compatible endpoints for integrating multiple LLMs.
 
 </details>
 
