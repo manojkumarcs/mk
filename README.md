@@ -484,6 +484,7 @@
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) — A Python library for augmenting LLM apps with data.
+- [grugbot420](https://github.com/grug-group420/grugbot420) — A neuromorphic cognitive engine in Julia for multi-model AI orchestration through architectural configuration.
 
 <details>
 <summary>more applications</summary>
