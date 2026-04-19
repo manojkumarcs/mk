@@ -412,6 +412,8 @@
 - [Giskard](https://github.com/Giskard-AI/giskard) - Testing & evaluation library for LLM applications, in particular RAGs
 - [LangSmith](https://www.langchain.com/langsmith) - a unified platform from LangChain framework for: evaluation, collaboration HITL (Human In The Loop), logging and monitoring LLM applications.  
 - [Ragas](https://github.com/explodinggradients/ragas) - a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.
+- [kb-arena](https://github.com/xmpuspus/kb-arena) - RAG evaluation arena that benchmarks 7 retrieval strategies (naive vector, contextual, QnA pairs, knowledge graph, RAPTOR, PageIndex, hybrid) on your own docs with ELO-based blind A/B ranking and RAGAS metrics.
+- [AI Workflow Benchmark](https://github.com/xmpuspus/ai-workflow-benchmark) - Benchmark harness measuring AI coding tool and workflow performance on 100 real engineering tasks across 8 categories, 12 capability dimensions, with Workflow Lift statistical significance testing.
 
 </details>
 
@@ -548,6 +550,7 @@
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more.
 - [LangWatch](https://github.com/langwatch/langwatch) - Open-source LLM observability, prompt evaulation, and prompt optimzation platform.
 - [TensorZero](https://www.tensorzero.com/) - TensorZero is an open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
+- [CloudWright](https://github.com/xmpuspus/cloudwright) - AI-powered cloud architecture that turns natural-language infrastructure descriptions into Terraform/CloudFormation, cost estimates, and compliance reports (HIPAA, PCI-DSS, SOC 2, FedRAMP, GDPR, Well-Architected) across AWS, GCP, Azure, and Databricks.
 
 </details>
 
