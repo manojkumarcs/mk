@@ -450,6 +450,8 @@
 
 ## LLM Inference
 
+- [OneComp](https://github.com/FujitsuResearch/OneCompression) ![](https://img.shields.io/github/stars/FujitsuResearch/OneCompression.svg?style=social) — Fujitsu Research's unified PTQ pipeline for LLMs (QEP/AutoBit/JointQ/Rotation, vLLM plugin). [arXiv:2603.28845](https://arxiv.org/abs/2603.28845).
+
 > Reference: [llm-inference-solutions](https://github.com/mani-kantap/llm-inference-solutions)
 - [SGLang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [vLLM](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
