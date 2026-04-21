@@ -412,6 +412,7 @@
 - [Giskard](https://github.com/Giskard-AI/giskard) - Testing & evaluation library for LLM applications, in particular RAGs
 - [LangSmith](https://www.langchain.com/langsmith) - a unified platform from LangChain framework for: evaluation, collaboration HITL (Human In The Loop), logging and monitoring LLM applications.  
 - [Ragas](https://github.com/explodinggradients/ragas) - a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.
+- [semantix-ai](https://github.com/labrat-akhona/semantix-ai) - Local, deterministic semantic validation for LLM outputs via a quantized NLI model. Drop-in reward/metric functions for DSPy, pytest assertions, LangChain/Pydantic-AI/Guardrails integrations, and a tamper-evident audit trail. MIT.
 
 </details>
 
