@@ -549,6 +549,7 @@
 - [LangWatch](https://github.com/langwatch/langwatch) - Open-source LLM observability, prompt evaulation, and prompt optimzation platform.
 - [TensorZero](https://www.tensorzero.com/) - TensorZero is an open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
 
+- [osModa](https://github.com/bolivian-peru/os-moda) - NixOS distribution where the AI agent has root access through 91 typed MCP tools across 9 Rust daemons. Modular runtime swaps Claude Code and OpenClaw drivers per-agent without SSH; hash-chained audit ledger; atomic NixOS rollback; live ERC-8004 / A2A agent card at spawn.os.moda.
 </details>
 
 ## LLM Tutorials and Courses
