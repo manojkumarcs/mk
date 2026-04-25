@@ -549,6 +549,7 @@
 - [LangWatch](https://github.com/langwatch/langwatch) - Open-source LLM observability, prompt evaulation, and prompt optimzation platform.
 - [TensorZero](https://www.tensorzero.com/) - TensorZero is an open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
 
+- [EnigmAgent](https://github.com/Agnuxo1/EnigmAgent) - Local AES-256-GCM encrypted vault for LLM agent secrets. Inject API keys as `{{PLACEHOLDER}}` tokens — never exposed in LLM context. AES-256-GCM + Argon2id, zero cloud, MIT.
 </details>
 
 ## LLM Tutorials and Courses
