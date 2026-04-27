@@ -149,6 +149,8 @@
 </details>
 
 ## LLM Leaderboard
+
+  - [Consensus Engine](https://github.com/MICONNM/consensus-engine-py) - Python client for an API that polls 11 frontier LLMs in parallel and returns one synthesized answer with confidence score. ([demo](https://api.yanmiayn.com/demo))
 - [Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) - a benchmark platform for large language models (LLMs) that features anonymous, randomized battles in a crowdsourced manner.
 - [LiveBench](https://livebench.ai/#/) - A Challenging, Contamination-Free LLM Benchmark.
 - [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) - aims to track, rank, and evaluate LLMs and chatbots as they are released.
