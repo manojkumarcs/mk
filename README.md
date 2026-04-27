@@ -475,6 +475,7 @@
 - [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training.
 - [prima.cpp](https://github.com/Lizonghang/prima.cpp) - A distributed implementation of llama.cpp that lets you run 70B-level LLMs on your everyday devices.
 - [deploy-llms-with-ansible](https://github.com/xamey/deploy-llms-with-ansible) - Easily deploy any LLM on a VM with minimal configuration, using Ansible.
+- [vimin-core](https://github.com/pberlizov/vimin-public) (2026-04, MIT) — Distributed local LLM and Whisper inference orchestration across up to 10 machines. MLX on Apple Silicon, llama.cpp on any platform. Air-gapped and privacy-first.
 
 </details>
 
