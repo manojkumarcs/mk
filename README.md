@@ -570,6 +570,7 @@
 - [ICML2022-Welcome to the "Big Model" Era: Techniques and Systems to Train and Serve Bigger Models](https://icml.cc/virtual/2022/tutorial/18440)
 - [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
 - [LLM‑RL‑Visualized (EN)](https://github.com/changyeyu/LLM-RL-Visualized/blob/master/src/README_EN.md) | [LLM‑RL‑Visualized (中文)](https://github.com/changyeyu/LLM-RL-Visualized) - 100+  LLM / RL Algorithm Maps📚.
+- [Learn AI Visually](https://learnaivisually.com) - Interactive browser simulations of LLM internals (tokenization, attention, KV cache, quantization, batching, paged-attention) and GPU/CUDA architecture (warps, memory hierarchy, roofline, tensor cores, FlashAttention). Free, no GPU required.
 
 
 ## LLM Books
