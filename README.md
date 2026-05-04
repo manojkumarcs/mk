@@ -484,6 +484,7 @@
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) — A Python library for augmenting LLM apps with data.
+- [ros2-agent / ROSIE](https://github.com/ros2-agent/ros2-agent) — LLM agent to control and debug ROS 2 robots in natural language. LangGraph-based, supports OpenAI / Anthropic / Ollama. Install: pip install ros2-agent
 
 <details>
 <summary>more applications</summary>
