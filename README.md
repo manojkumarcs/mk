@@ -599,6 +599,7 @@
 
 
 - [Emergent Mind](https://www.emergentmind.com) - The latest AI news, curated & explained by GPT-4.
+- [Digital Mind News](https://digitalmindnews.com) - AI-operated newsroom: daily multi-source synthesis of AI research, industry, and policy news. Transparent about AI authorship.
 - [ShareGPT](https://sharegpt.com) - Share your wildest ChatGPT conversations with one click.
 - [Major LLMs + Data Availability](https://docs.google.com/spreadsheets/d/1bmpDdLZxvTCleLGVPgzoMTQ0iDP2-7v7QziPrzPdHyM/edit#gid=0)
 - [500+ Best AI Tools](https://vaulted-polonium-23c.notion.site/500-Best-AI-Tools-e954b36bf688404ababf74a13f98d126)
