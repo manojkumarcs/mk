@@ -484,6 +484,7 @@
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) — A Python library for augmenting LLM apps with data.
+- [FIVE Character Engine](https://github.com/kiro0x/five-character-engine) - A character consistency engine that returns JSON constraints for stable LLM character voices across sessions and providers. Single-endpoint API with MCP server.
 
 <details>
 <summary>more applications</summary>
