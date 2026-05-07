@@ -488,6 +488,7 @@
 <details>
 <summary>more applications</summary>
 
+- [AI Cost Calculator](https://model-calculator.com) — Compare per-token pricing across 461 AI models. Side-by-side comparison with monthly cost estimation in 6 currencies. Free, no signup.
 
 - [MLflow](https://mlflow.org/) - MLflow: An open-source framework for the end-to-end machine learning lifecycle, helping developers track experiments, evaluate models/prompts, deploy models, and add observability with tracing.
 - [Swiss Army Llama](https://github.com/Dicklesworthstone/swiss_army_llama) - Comprehensive set of tools for working with local LLMs for various tasks.
