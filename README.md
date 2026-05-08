@@ -524,6 +524,7 @@
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) — A Python/C#/Java library from Microsoft that supports prompt templating, function chaining, vectorized memory, and intelligent planning.
 - [Prompttools](https://github.com/hegelai/prompttools) — Open-source Python tools for testing and evaluating models, vector DBs, and prompts.
 - [Outlines](https://github.com/normal-computing/outlines) — A Python library that provides a domain-specific language to simplify prompting and constrain generation.
+- [json-correction-loop](https://github.com/warpspaceinc/json-correction-loop) — A Python library for iteratively correcting large LLM-generated JSON / knowledge graphs via RFC 6902 patches and a multi-agent sub-task stack (path_finder, context narrowing, patch evaluator). Composable critic loop with convergence policies.
 - [Promptify](https://github.com/promptslab/Promptify) — A small Python library for using language models to perform NLP tasks.
 - [Scale Spellbook](https://scale.com/spellbook) — A paid product for building, comparing, and shipping language model apps.
 - [PromptPerfect](https://promptperfect.jina.ai/prompts) — A paid product for testing and improving prompts.
