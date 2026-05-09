@@ -610,6 +610,7 @@
 - [EasyEdit](https://github.com/zjunlp/EasyEdit) - An easy-to-use framework to edit large language models.
 - [chatgpt-shroud](https://github.com/guyShilo/chatgpt-shroud) - A Chrome extension for OpenAI's ChatGPT, enhancing user privacy by enabling easy hiding and unhiding of chat history. Ideal for privacy during screen shares.
 - [AI For Developers](https://aifordevelopers.org) - List of AI Tools and Agents for Developers
+- *[LLMs.txt Generator](https://llms-txt-generator.net/) — Free tool to generate spec-compliant llms.txt files for any website, following the llmstxt.org standard for LLM-optimized content discovery.*
 
 ## Contributing
 
