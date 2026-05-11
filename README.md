@@ -548,6 +548,7 @@
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more.
 - [LangWatch](https://github.com/langwatch/langwatch) - Open-source LLM observability, prompt evaulation, and prompt optimzation platform.
 - [TensorZero](https://www.tensorzero.com/) - TensorZero is an open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
+- [Lumin](https://github.com/amitbidlan/zistica-lumin) - Open-source platform for running LLM agents in production — **observe, govern, defend, operate** in a single self-hosted Docker container. Full-trace observability, policy engine (shadow/enforce, suggester, replay, drift detection, versioning, rollback), OWASP LLM Top 10 runtime guardrails (Presidio NER, Prompt Guard 2, Llama Guard 4), 12 starter policy packs (OWASP, GDPR, HIPAA, PCI-DSS), human approvals queue, audit trail, tenant-isolation firewall, webhooks. 16 framework integrations: LangChain, LangGraph, LlamaIndex, CrewAI, AutoGen, LiteLLM, OpenAI Agents, Pydantic AI, Anthropic, Mastra, VoltAgent, OpenClaw + OTLP. Apache-2.0.
 
 </details>
 
