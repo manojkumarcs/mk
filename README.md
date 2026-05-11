@@ -548,7 +548,7 @@
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more.
 - [LangWatch](https://github.com/langwatch/langwatch) - Open-source LLM observability, prompt evaulation, and prompt optimzation platform.
 - [TensorZero](https://www.tensorzero.com/) - TensorZero is an open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
-- [Lumin](https://github.com/amitbidlan/zistica-lumin) - Local-first AI agent observability with a tenant-isolation firewall built in. Drops in via LangChain/CrewAI/OpenClaw/Mastra/VoltAgent integrations or OTLP. Self-hosted single Docker container, DuckDB-backed. Stops cross-session leaks in multi-user bots structurally (per-user file sandbox + LLM history isolation + Presidio NER prompt scrub).
+- [Lumin](https://github.com/amitbidlan/zistica-lumin) - Open-source local-first observability + security platform for LLM agents. Full-trace recording (LLM calls, tools, retrievals, costs, evals), OWASP LLM Top 10 protections (prompt-injection guard, sensitive-info redaction via Presidio NER, insecure-output filter, excessive-agency controls on shells/network), policy engine, and a tenant-isolation firewall for multi-tenant bots. Drops in via LangChain/CrewAI/LlamaIndex/Anthropic/OpenClaw/Mastra/VoltAgent integrations or OTLP. Self-hosted single Docker container, DuckDB-backed, Apache-2.0.
 
 </details>
 
