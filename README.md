@@ -396,6 +396,7 @@
 - [Datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
 - [Dingo](https://github.com/DataEval/dingo) - Dingo: A Comprehensive Data Quality Evaluation Tool
 - [FastDatasets](https://github.com/ZhuLinsen/FastDatasets) - A powerful tool for creating high-quality training datasets for Large Language Models
+- [simulate-sdk](https://github.com/future-agi/simulate-sdk) - Voice AI simulation SDK for generating synthetic conversation datasets to test AI agents across edge-case scenarios.
 
 ## LLM Evaluation:
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
@@ -548,6 +549,7 @@
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more.
 - [LangWatch](https://github.com/langwatch/langwatch) - Open-source LLM observability, prompt evaulation, and prompt optimzation platform.
 - [TensorZero](https://www.tensorzero.com/) - TensorZero is an open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
+- [agent-opt](https://github.com/future-agi/agent-opt) - Open-source library for automated optimization of AI agent workflows. Evaluation-driven prompt and config tuning for agent pipelines.
 
 </details>
 
