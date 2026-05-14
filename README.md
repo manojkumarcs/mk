@@ -4,6 +4,7 @@
 ![](resources/image8.gif)
 
 🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.
+- [LangChain](https://github.com/langchain-ai/langchain) - Building applications with LLMs through composability.
 
 ## Trending LLM Projects
 
