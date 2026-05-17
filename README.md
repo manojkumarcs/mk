@@ -422,6 +422,7 @@
 - [Meta Lingua](https://github.com/facebookresearch/lingua) - a lean, efficient, and easy-to-hack codebase to research LLMs.
 - [Litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [nanotron](https://github.com/huggingface/nanotron) - Minimalistic large language model 3D-parallelism training.
+- [llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA with no PyTorch or Python dependencies, achieving GPT-2 training in ~1000 lines of code.
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale.
 - [torchtitan](https://github.com/pytorch/torchtitan) - A native PyTorch Library for large model training.
