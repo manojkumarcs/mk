@@ -481,6 +481,8 @@
 
 ## LLM Applications
 > Reference: [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- [vexdb-active-memory](https://github.com/MiniosZou/vexdb-active-memory) - Database-native Agent active memory framework with semantic UPSERT, conflict resolution, forgetting archive, hybrid retrieval, concurrency control, and audit trail. Supports MCP, OpenClaw, and Hermes Agent integration.
+
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) — A Python library for augmenting LLM apps with data.
