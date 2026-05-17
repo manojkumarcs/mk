@@ -401,6 +401,7 @@
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 - [lighteval](https://github.com/huggingface/lighteval) - a lightweight LLM evaluation suite that Hugging Face has been using internally.
 - [simple-evals](https://github.com/openai/simple-evals) - Eval tools by OpenAI.
+- [XFMS](https://github.com/VisionAIrySE/XFMS) - Pick the right LLM for your task. Hosted recommender that aggregates 8 independent benchmark sources (no provider self-reports), returns a ranked shortlist with plain-English rationale per pick. Python client (`pip install xfms`) + CLI; BYOK so your inference cost stays with you. Part of the [Xpansion Framework](https://xpansion.dev).
 
 <details>
 <summary>other evaluation frameworks</summary>
