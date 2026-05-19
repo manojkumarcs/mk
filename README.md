@@ -624,3 +624,5 @@ If you have any question about this opinionated list, do not hesitate to contact
 [^1]: This is not legal advice. Please contact the original authors of the models for more information.
 - **[OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard)** — Runtime defense layer for AI agent memory poisoning (OWASP ASI06). Detects tampered memory entries, prompt injection in memory paths, and secret leakage. YAML-defined policies (block/warn/strip), sub-100μs latency, zero external dependencies. `pip install agent-memory-guard`
 
+
+- [AgentThreatBench](https://ukgovernmentbeis.github.io/inspect_evals/evals/safeguards/agent_threat_bench/) - The first evaluation suite operationalizing the OWASP Top 10 for Agentic Applications (2026) into executable tasks. Merged into UK AISI's inspect_evals. Covers memory poisoning (ASI06), autonomy hijacking (ASI01), and data exfiltration (ASI01).
