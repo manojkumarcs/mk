@@ -610,6 +610,7 @@
 - [EasyEdit](https://github.com/zjunlp/EasyEdit) - An easy-to-use framework to edit large language models.
 - [chatgpt-shroud](https://github.com/guyShilo/chatgpt-shroud) - A Chrome extension for OpenAI's ChatGPT, enhancing user privacy by enabling easy hiding and unhiding of chat history. Ideal for privacy during screen shares.
 - [AI For Developers](https://aifordevelopers.org) - List of AI Tools and Agents for Developers
+- [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) - Official OWASP reference implementation for defending AI agents against memory poisoning (ASI06) and indirect prompt injection attacks.
 
 ## Contributing
 
@@ -622,3 +623,5 @@ I will keep some pull requests open if I'm not sure if they are awesome for LLM,
 If you have any question about this opinionated list, do not hesitate to contact me chengxin1998@stu.pku.edu.cn.
 
 [^1]: This is not legal advice. Please contact the original authors of the models for more information.
+- **[OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard)** — Runtime defense layer for AI agent memory poisoning (OWASP ASI06). Detects tampered memory entries, prompt injection in memory paths, and secret leakage. YAML-defined policies (block/warn/strip), sub-100μs latency, zero external dependencies. `pip install agent-memory-guard`
+
