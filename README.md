@@ -484,6 +484,7 @@
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) — A Python library for augmenting LLM apps with data.
+- [AI Models Catalog](https://github.com/i-need-token/ai-models) — Structured YAML catalog of 4,587 AI models across 95 providers with pricing, context windows, modalities, and capabilities. First-party data with TypeScript types and Zod validation.
 
 <details>
 <summary>more applications</summary>
