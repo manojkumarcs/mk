@@ -549,7 +549,9 @@
 - [LangWatch](https://github.com/langwatch/langwatch) - Open-source LLM observability, prompt evaulation, and prompt optimzation platform.
 - [TensorZero](https://www.tensorzero.com/) - TensorZero is an open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
 
+- [ModelStatus](https://github.com/lucasmullikin/ModelStatus) - macOS menu bar app for monitoring multiple local LLM servers (Ollama, LM Studio, vLLM, MLX, llama.cpp). Multi-instance dashboard with VRAM tracking, client-process attribution, LAN + Tailscale discovery. No telemetry. MIT.
 </details>
+- [ModelStatus](https://github.com/lucasmullikin/ModelStatus) - macOS menu bar app for monitoring multiple local LLM servers (Ollama, LM Studio, vLLM, MLX, llama.cpp). Multi-instance dashboard with VRAM tracking, client-process attribution, LAN + Tailscale discovery. No telemetry. MIT.
 
 ## LLM Tutorials and Courses
 - [Andrej Karpathy Series](https://www.youtube.com/@AndrejKarpathy) - My favorite!
