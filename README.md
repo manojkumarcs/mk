@@ -474,6 +474,7 @@
 - [LMDeploy](https://github.com/InternLM/lmdeploy) - A high-throughput and low-latency inference and serving framework for LLMs and VLs
 - [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training.
 - [prima.cpp](https://github.com/Lizonghang/prima.cpp) - A distributed implementation of llama.cpp that lets you run 70B-level LLMs on your everyday devices.
+- [A3M Router](https://github.com/Das-rebel/a3m-router) - Open-source LLM router with parallel multi-LLM execution. Runs 47+ providers simultaneously with confidence scoring. 62% cost savings, 99.5% routing accuracy, independent benchmark validated. 19.5 KB, zero ML.
 - [deploy-llms-with-ansible](https://github.com/xamey/deploy-llms-with-ansible) - Easily deploy any LLM on a VM with minimal configuration, using Ansible.
 
 </details>
