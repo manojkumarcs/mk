@@ -526,6 +526,7 @@
 - [Outlines](https://github.com/normal-computing/outlines) — A Python library that provides a domain-specific language to simplify prompting and constrain generation.
 - [Promptify](https://github.com/promptslab/Promptify) — A small Python library for using language models to perform NLP tasks.
 - [Scale Spellbook](https://scale.com/spellbook) — A paid product for building, comparing, and shipping language model apps.
+- [SLIM Format](https://slimformat.org) — Token-efficient file format for AI prompts, agent configs, and tool schemas. Replaces Markdown with `::SECTION` syntax; saves ~43% LLM-facing tokens on average. Verified by Anthropic and Microsoft.
 - [PromptPerfect](https://promptperfect.jina.ai/prompts) — A paid product for testing and improving prompts.
 - [Weights & Biases](https://wandb.ai/site/solutions/llmops) — A paid product for tracking model training and prompt engineering experiments.
 - [OpenAI Evals](https://github.com/openai/evals) — An open-source library for evaluating task performance of language models and prompts.
