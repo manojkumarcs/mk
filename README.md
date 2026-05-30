@@ -556,6 +556,9 @@
 - [Umar Jamil Series](https://www.youtube.com/@umarjamilai) - high quality and educational videos you don't want to miss.
 - [Alexander Rush Series](https://rush-nlp.com/projects/) - high quality and educational materials you don't want to miss.
 - [llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+- [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) - Hands-on Jupyter notebook tutorials covering 30+ advanced Retrieval-Augmented Generation techniques, from chunking and reranking to self-RAG and graph RAG.
+- [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and reference implementations for building GenAI agents, from simple conversational bots to complex multi-agent systems.
+- [Prompt Engineering](https://github.com/NirDiamant/Prompt_Engineering) - 22 hands-on prompt engineering technique tutorials, from fundamental prompt structures to advanced strategies like chain-of-thought and self-consistency.
 - [UWaterloo CS 886](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/) - Recent Advances on Foundation Models.
 - [CS25-Transformers United](https://web.stanford.edu/class/cs25/)
 - [ChatGPT Prompt Engineering](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
