@@ -215,6 +215,7 @@
   - [Qwen-VL-7B](https://huggingface.co/Qwen/Qwen-VL)
   - [Qwen2-VL-2B|7B|72B](https://qwenlm.github.io/blog/qwen2-vl/)
   - [Qwen2-Audio-7B](https://qwenlm.github.io/blog/qwen2-audio/)
+  - [Fun-ASR-Nano-0.8B](https://github.com/FunAudioLLM/Fun-ASR) - LLM-based speech recognition (SenseVoice encoder + Qwen3-0.6B decoder), 31 languages, hotword boosting.
   - [Qwen2.5-VL-3|7|72B](https://qwenlm.github.io/blog/qwen2.5-vl/)
   - [Qwen2.5-1M-7|14B](https://qwenlm.github.io/blog/qwen2.5-1m/)
 
