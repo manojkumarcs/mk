@@ -475,6 +475,7 @@
 - [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training.
 - [prima.cpp](https://github.com/Lizonghang/prima.cpp) - A distributed implementation of llama.cpp that lets you run 70B-level LLMs on your everyday devices.
 - [deploy-llms-with-ansible](https://github.com/xamey/deploy-llms-with-ansible) - Easily deploy any LLM on a VM with minimal configuration, using Ansible.
+- [kube-llmops](https://github.com/GaeaRuiW/kube-llmops) - A Kubernetes-native LLMOps platform with a batteries-included Helm chart: model serving (vLLM, llama.cpp), AI Gateway (LiteLLM), observability (Grafana, Langfuse), RAG, fine-tuning, SSO, and autoscaling.
 
 </details>
 
