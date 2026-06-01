@@ -518,6 +518,7 @@
 - [Langfuse](https://github.com/langfuse/langfuse) -  Open Source LLM Engineering Platform 🪢 Tracing, Evaluations, Prompt Management, Evaluations and Playground. 
 - [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build&auto-optimize LLM applications.
 - [Guidance](https://github.com/microsoft/guidance) — A handy looking Python library from Microsoft that uses Handlebars templating to interleave generation, prompting, and logical control.
+- [Human Browser](https://github.com/VirixLabs/humanbrowser) - Cloud-hosted residential browser MCP for AI agents. Real residential IPs, automated captcha solving (reCAPTCHA, hCaptcha, Turnstile, PerimeterX), live viewer URL for human-in-the-loop, MCP and A2A endpoints. Pay-as-you-go, $1 free trial.
 - [Evidently](https://github.com/evidentlyai/evidently) — An open-source framework to evaluate, test and monitor ML and LLM-powered systems.
 - [Chainlit](https://docs.chainlit.io/overview) — A Python library for making chatbot interfaces.
 - [Guardrails.ai](https://www.guardrailsai.com/docs/) — A Python library for validating outputs and retrying failures. Still in alpha, so expect sharp edges and bugs.
