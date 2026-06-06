@@ -182,6 +182,7 @@
 - [VisualWebArena](https://jykoh.com/vwa) - a benchmark designed to assess the performance of multimodal web agents on realistic visually grounded tasks.
 - [We-Math](https://we-math.github.io/#leaderboard) - a benchmark that evaluates large multimodal models (LMMs) on their ability to perform human-like mathematical reasoning.
 - [WHOOPS!](https://whoops-benchmark.github.io) - a benchmark dataset testing AI's ability to reason about visual commonsense through images that defy normal expectations.
+- [vybing.dev](https://vybing.dev) - AI dev tool directory with benchmark-backed rankings; covers coding assistants, LLM APIs, agents, and dev tooling.
 
 </details>
 
