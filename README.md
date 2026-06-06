@@ -549,6 +549,7 @@
 - [LangWatch](https://github.com/langwatch/langwatch) - Open-source LLM observability, prompt evaulation, and prompt optimzation platform.
 - [TensorZero](https://www.tensorzero.com/) - TensorZero is an open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
 
+- [Beever Atlas](https://github.com/Beever-AI/beever-atlas) - Open-source LLM Knowledge Base for teams. Turns Slack/Discord/Teams/Mattermost chat into a typed Neo4j knowledge graph + auto-generated wiki, with 16-tool native MCP server (Claude Code, Cursor, AWS Kiro). Apache 2.0, BYO LLM via LiteLLM, on-premise via Docker.
 </details>
 
 ## LLM Tutorials and Courses
