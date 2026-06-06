@@ -484,6 +484,7 @@
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) — A Python library for augmenting LLM apps with data.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) — Trust scoring and receipt verification MCP server for AI agents on Solana. Pre-dispatch gating (`preflight_check`), on-chain scoring (`score_agent`, `resolve_agent`), free identity verification (`verify_trust_receipt`), and paid signed V5 trust receipts via x402 USDC micropayments. Zero-install: `{"mcpServers": {"twzrd-agent-intel": {"url": "https://intel.twzrd.xyz/mcp"}}}`
 
 <details>
 <summary>more applications</summary>
