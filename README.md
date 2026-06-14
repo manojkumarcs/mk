@@ -175,6 +175,7 @@
 - [OlympicArena](https://gair-nlp.github.io/OlympicArena/#leaderboard) - a benchmark for evaluating AI models across multiple academic disciplines like math, physics, chemistry, biology, and more.
 - [PubMedQA](https://pubmedqa.github.io) - a biomedical question-answering benchmark designed for answering research-related questions using PubMed abstracts.
 - [SciBench](https://scibench-ucla.github.io/#leaderboard) -  benchmark designed to evaluate large language models (LLMs) on solving complex, college-level scientific problems from domains like chemistry, physics, and mathematics.
+- [slopsome.com](https://slopsome.com) - an LLM & GPU stats search engine that ranks open-weight and API models by composite score and benchmarks, with a VRAM fit-calculator and real tokens/sec. Free, with an open API.
 - [SuperBench](https://fm.ai.tsinghua.edu.cn/superbench/#/leaderboard) - a benchmark platform designed for evaluating large language models (LLMs) on a range of tasks, particularly focusing on their performance in different aspects such as natural language understanding, reasoning, and generalization. 
 - [SuperLim](https://lab.kb.se/leaderboard/results) - a Swedish language understanding benchmark that evaluates natural language processing (NLP) models on various tasks such as argumentation analysis, semantic similarity, and textual entailment.
 - [TAT-DQA](https://nextplusplus.github.io/TAT-DQA) - a large-scale Document Visual Question Answering (VQA) dataset designed for complex document understanding, particularly in financial reports.
