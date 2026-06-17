@@ -457,6 +457,7 @@
 - [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [TGI](https://huggingface.co/docs/text-generation-inference/en/index) - a toolkit for deploying and serving Large Language Models (LLMs).
 - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - Nvidia Framework for LLM Inference
+- [PORDL](https://pordl.dev) - Smart LLM proxy that routes inference requests to the cheapest adequate model. Drop-in OpenAI replacement, saves 40-70% on costs.
 <details>
 <summary>other deployment tools</summary>
 
