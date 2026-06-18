@@ -401,6 +401,7 @@
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 - [lighteval](https://github.com/huggingface/lighteval) - a lightweight LLM evaluation suite that Hugging Face has been using internally.
 - [simple-evals](https://github.com/openai/simple-evals) - Eval tools by OpenAI.
+- [model-benchmark](https://github.com/oc-mm/model-benchmark) — Multi-model AI benchmark suite testing 4 providers (Mistral, Groq, Cerebras, Gemini) across 6 standardized tasks (summarization, extraction, classification, code, translation, reasoning) with automated markdown reporting and JSON export. Zero external dependencies.
 
 <details>
 <summary>other evaluation frameworks</summary>
