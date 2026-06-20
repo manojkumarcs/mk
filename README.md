@@ -397,6 +397,7 @@
 - [Dingo](https://github.com/DataEval/dingo) - Dingo: A Comprehensive Data Quality Evaluation Tool
 - [FastDatasets](https://github.com/ZhuLinsen/FastDatasets) - A powerful tool for creating high-quality training datasets for Large Language Models
 
+- [GeneTech Knowledge Engine](https://github.com/lm203688/kb-ecosystem) - 12-domain structured science knowledge base with 4,000+ entities for RAG. Free REST API, MCP-compatible. Domains: gene tech, quantum, nuclear, brain science, deep-sea, exo-science.
 ## LLM Evaluation:
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 - [lighteval](https://github.com/huggingface/lighteval) - a lightweight LLM evaluation suite that Hugging Face has been using internally.
