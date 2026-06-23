@@ -512,6 +512,7 @@
 - [GPUStack](https://github.com/gpustack/gpustack) - An open-source GPU cluster manager for running LLMs
 - [MNN-LLM](https://github.com/alibaba/MNN) -- A Device-Inference framework, including LLM Inference on device(Mobile Phone/PC/IOT)
 - [CAMEL](https://www.camel-ai.org/) - First LLM Multi-agent framework. 
+- [CODEC-CORTEX](https://github.com/FidelErnesto03/codec-cortex) — Deterministic structural compression protocol for LLM agent cognitive memory. 85% token reduction via `.cortex` format with golden ratio memory distribution. Zero LLM in codec cycle. Framework-agnostic.
 - [QA-Pilot](https://github.com/reid41/QA-Pilot) - An interactive chat project that leverages Ollama/OpenAI/MistralAI LLMs for rapid understanding and navigation of GitHub code repository or compressed file resources.
 - [Shell-Pilot](https://github.com/reid41/shell-pilot) - Interact with LLM using Ollama models(or openAI, mistralAI)via pure shell scripts on your Linux(or MacOS) system, enhancing intelligent system management without any dependencies.
 - [MindSQL](https://github.com/Mindinventory/MindSQL) - A python package for Txt-to-SQL with self hosting functionalities and RESTful APIs compatible with proprietary as well as open source LLM.
