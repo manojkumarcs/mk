@@ -610,6 +610,7 @@
 - [EasyEdit](https://github.com/zjunlp/EasyEdit) - An easy-to-use framework to edit large language models.
 - [chatgpt-shroud](https://github.com/guyShilo/chatgpt-shroud) - A Chrome extension for OpenAI's ChatGPT, enhancing user privacy by enabling easy hiding and unhiding of chat history. Ideal for privacy during screen shares.
 - [AI For Developers](https://aifordevelopers.org) - List of AI Tools and Agents for Developers
+- [Awesome AI Gateway](https://github.com/cuihuan/awesome-ai-gateway) - A curated, bilingual comparison of 100+ AI gateways / LLM proxies by cost, security, compliance, and self-hosting, with a reproducible token-cost benchmark, a 4-axis scorecard, and dated production-reality reviews.
 
 ## Contributing
 
