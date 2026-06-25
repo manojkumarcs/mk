@@ -1,4 +1,3 @@
-
 # Awesome-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![](resources/image8.gif)
@@ -622,3 +621,4 @@ I will keep some pull requests open if I'm not sure if they are awesome for LLM,
 If you have any question about this opinionated list, do not hesitate to contact me chengxin1998@stu.pku.edu.cn.
 
 [^1]: This is not legal advice. Please contact the original authors of the models for more information.
+- [Token Diet](https://ranker.co.za/token-diet) - Free open-source prompt token counter. Count LLM tokens, trim prompts, cut AI API costs. Client-side only, no login.
