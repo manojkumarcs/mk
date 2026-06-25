@@ -610,6 +610,7 @@
 - [EasyEdit](https://github.com/zjunlp/EasyEdit) - An easy-to-use framework to edit large language models.
 - [chatgpt-shroud](https://github.com/guyShilo/chatgpt-shroud) - A Chrome extension for OpenAI's ChatGPT, enhancing user privacy by enabling easy hiding and unhiding of chat history. Ideal for privacy during screen shares.
 - [AI For Developers](https://aifordevelopers.org) - List of AI Tools and Agents for Developers
+- [Token Diet](https://ranker.co.za/token-diet) - Free, open-source prompt token counter and optimizer that trims prompts to use fewer tokens and cut LLM and AI API costs. Runs client-side with no login.
 
 ## Contributing
 
