@@ -449,6 +449,7 @@
 
 
 ## LLM Inference
+- [SuperCompress](https://github.com/arjunkshah/supercompress) - Learned context compression for LLMs. ~5K param CPU policy cuts 65% of tokens with 100% oracle recall.
 
 > Reference: [llm-inference-solutions](https://github.com/mani-kantap/llm-inference-solutions)
 - [SGLang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
