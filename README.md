@@ -461,7 +461,9 @@
 <summary>other deployment tools</summary>
 
 - [FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - NVIDIA Framework for LLM Inference(Transitioned to TensorRT-LLM)
-- [MInference](https://github.com/microsoft/MInference) - To speed up Long-context LLMs' inference, approximate and dynamic sparse calculate the attention, which reduces inference latency by up to 10x for pre-filling on an A100 while maintaining accuracy.
+- [MInference](https://github.com/microsoft/MInference)
+- [SuperCompress](https://github.com/arjunkshah/supercompress) - Open-source learned prompt compression for LLMs. Cuts ~65% of tokens before inference using a ~5K parameter CPU policy with 100% oracle recall. Runs on CPU in ~60ms. pip install supercompress.
+ - To speed up Long-context LLMs' inference, approximate and dynamic sparse calculate the attention, which reduces inference latency by up to 10x for pre-filling on an A100 while maintaining accuracy.
 - [exllama](https://github.com/turboderp/exllama) - A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights.
 - [FastChat](https://github.com/lm-sys/FastChat) - A distributed multi-model LLM serving system with web UI and OpenAI-compatible RESTful APIs.
 - [mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
