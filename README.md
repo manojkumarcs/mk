@@ -549,6 +549,7 @@
 - [LangWatch](https://github.com/langwatch/langwatch) - Open-source LLM observability, prompt evaulation, and prompt optimzation platform.
 - [TensorZero](https://www.tensorzero.com/) - TensorZero is an open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
 
+- [ENLIL](https://github.com/conchaestradamiguelangel-droid/enlil) - Open-source council of 9 AI specialists (BYOK, OpenRouter) deliberating via structured peer review before synthesis. Every decree signed with ML-DSA-87 post-quantum cryptography (NIST FIPS 204). Self-hosted, GPL v3.
 </details>
 
 ## LLM Tutorials and Courses
