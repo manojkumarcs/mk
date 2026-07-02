@@ -141,6 +141,7 @@
 - [Awesome-LLM-3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D) - A curated list of Multi-modal Large Language Model in 3D world, including 3D understanding, reasoning, generation, and embodied agents.
 - [LLMDatahub](https://github.com/Zjh-819/LLMDataHub) - a curated collection of datasets specifically designed for chatbot training, including links, size, language, usage, and a brief description of each dataset
 - [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
+- [开源模型导航站 (Open Source Model Navigator)](https://github.com/duola15/open-source-model-nav) - 中文世界最全面的开源模型地图，219个模型覆盖6大类别，每日自动同步HuggingFace趋势榜，AI自动翻译中文简介，支持一键部署命令（Ollama/硅基流动/Transformers/vLLM），Next.js SSG全量预渲染。
 
 - [LLM4Opt](https://github.com/FeiLiu36/LLM4Opt) - Applying Large language models (LLMs) for diverse optimization tasks (Opt) is an emerging research area. This is a collection of references and papers of LLM4Opt.
 
@@ -610,6 +611,7 @@
 - [EasyEdit](https://github.com/zjunlp/EasyEdit) - An easy-to-use framework to edit large language models.
 - [chatgpt-shroud](https://github.com/guyShilo/chatgpt-shroud) - A Chrome extension for OpenAI's ChatGPT, enhancing user privacy by enabling easy hiding and unhiding of chat history. Ideal for privacy during screen shares.
 - [AI For Developers](https://aifordevelopers.org) - List of AI Tools and Agents for Developers
+- [OpenModelMap API](https://openmodelmap.com/api) - Real-time open-source AI model data API — 2,484 models, benchmarks, GPU matching, 9 sources, daily updates. Free tier available.
 
 ## Contributing
 
