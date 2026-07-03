@@ -151,6 +151,8 @@
 ## LLM Leaderboard
 - [Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) - a benchmark platform for large language models (LLMs) that features anonymous, randomized battles in a crowdsourced manner.
 - [LiveBench](https://livebench.ai/#/) - A Challenging, Contamination-Free LLM Benchmark.
+- [Helium Market Resolution Benchmark](https://huggingface.co/datasets/HeliumTrades/helium-market-resolution-benchmark) - 300 frozen option-chain prompts (IV, delta, parity); market ground truth; best frontier ~48%.
+- [Helium Model Worldview Benchmark](https://huggingface.co/datasets/HeliumTrades/helium-model-worldview-benchmark) - 304 paired cue-swap prompts for refusal/bias consistency (complements BBQ).
 - [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) - aims to track, rank, and evaluate LLMs and chatbots as they are released.
 - [AlpacaEval](https://tatsu-lab.github.io/alpaca_eval/) - An Automatic Evaluator for Instruction-following Language Models using Nous benchmark suite.
 <details>
