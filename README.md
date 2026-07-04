@@ -475,6 +475,7 @@
 - [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training.
 - [prima.cpp](https://github.com/Lizonghang/prima.cpp) - A distributed implementation of llama.cpp that lets you run 70B-level LLMs on your everyday devices.
 - [deploy-llms-with-ansible](https://github.com/xamey/deploy-llms-with-ansible) - Easily deploy any LLM on a VM with minimal configuration, using Ansible.
+- [Foveance](https://github.com/aimaghsoodi/foveance) - Drop-in OpenAI/Anthropic-compatible proxy that anticipatorily compresses long agent context under a token budget, cutting input tokens 60%+ at matched accuracy (works with Claude Code, Codex, and Ollama).
 
 </details>
 
