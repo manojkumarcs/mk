@@ -522,6 +522,7 @@
 - [Chainlit](https://docs.chainlit.io/overview) — A Python library for making chatbot interfaces.
 - [Guardrails.ai](https://www.guardrailsai.com/docs/) — A Python library for validating outputs and retrying failures. Still in alpha, so expect sharp edges and bugs.
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) — A Python/C#/Java library from Microsoft that supports prompt templating, function chaining, vectorized memory, and intelligent planning.
+- [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) - Framework-agnostic, local-first memory lifecycle for AI agents with a Rust CLI, SQLite/FTS recall, forgetting, audit, consolidation, and TUI.
 - [Prompttools](https://github.com/hegelai/prompttools) — Open-source Python tools for testing and evaluating models, vector DBs, and prompts.
 - [Outlines](https://github.com/normal-computing/outlines) — A Python library that provides a domain-specific language to simplify prompting and constrain generation.
 - [Promptify](https://github.com/promptslab/Promptify) — A small Python library for using language models to perform NLP tasks.
