@@ -31,6 +31,7 @@
   - [LLM Books](#llm-books)
   - [Great thoughts about LLM](#great-thoughts-about-llm)
   - [Miscellaneous](#miscellaneous)
+- [Retry budgets: why 20% per-step failure doubles your token bill](https://loopandretry.github.io/posts/retry-budgets/?ref=awesome-llm)
 
 ## Milestone Papers
 
