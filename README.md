@@ -570,7 +570,7 @@
 - [ICML2022-Welcome to the "Big Model" Era: Techniques and Systems to Train and Serve Bigger Models](https://icml.cc/virtual/2022/tutorial/18440)
 - [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
 - [LLM‑RL‑Visualized (EN)](https://github.com/changyeyu/LLM-RL-Visualized/blob/master/src/README_EN.md) | [LLM‑RL‑Visualized (中文)](https://github.com/changyeyu/LLM-RL-Visualized) - 100+  LLM / RL Algorithm Maps📚.
-
+- [Text-LLM-Training-from-scratch](https://github.com/Y0oshi/Text-LLM-Training-from-scratch) - A complete end-to-end LLM training pipeline (Pretraining, SFT, DPO, GRPO) built from scratch in pure PyTorch for educational purposes.
 
 ## LLM Books
 - [Generative AI with LangChain: Build large language model (LLM) apps with Python, ChatGPT, and other LLMs](https://amzn.to/3GUlRng) - it comes with a [GitHub repository](https://github.com/benman1/generative_ai_with_langchain) that showcases a lot of the functionality
