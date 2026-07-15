@@ -475,6 +475,7 @@
 - [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training.
 - [prima.cpp](https://github.com/Lizonghang/prima.cpp) - A distributed implementation of llama.cpp that lets you run 70B-level LLMs on your everyday devices.
 - [deploy-llms-with-ansible](https://github.com/xamey/deploy-llms-with-ansible) - Easily deploy any LLM on a VM with minimal configuration, using Ansible.
+- [AI Deployment Calculator](https://github.com/rxdt/ai_deployment_calculator) - Browser-based VRAM calculator for LLM inference, LoRA/QLoRA fine-tuning, and full training with per-component memory breakdowns. [Live app](https://aideploymentcalculator.vercel.app/).
 
 </details>
 
