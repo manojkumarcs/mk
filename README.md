@@ -535,6 +535,7 @@
 - [ModelFusion](https://github.com/lgrammel/modelfusion) - A TypeScript library for building apps with LLMs and other ML models (speech-to-text, text-to-speech, image generation).
 - [OneKE](https://openspg.yuque.com/ndx6g9/ps5q6b/vfoi61ks3mqwygvy) — A bilingual Chinese-English knowledge extraction model with knowledge graphs and natural language processing technologies.
 - [llm-ui](https://github.com/llm-ui-kit/llm-ui) - A React library for building LLM UIs.
+- [Markstream](https://github.com/Simon-He95/markstream-vue) - Multi-framework streaming Markdown renderers for AI chat UIs, supporting Vue/Nuxt, React/Next.js, Svelte, Angular, and Vue 2 with Mermaid, KaTeX, safe HTML, syntax highlighting, and low-jitter updates.
 - [Wordware](https://www.wordware.ai) - A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. We approach prompting as a new programming language rather than low/no-code blocks.
 - [Wallaroo.AI](https://github.com/WallarooLabs) - Deploy, manage, optimize any model at scale across any environment from cloud to edge. Let's you go from python notebook to inferencing in minutes.
 - [Dify](https://github.com/langgenius/dify) - An open-source LLM app development platform with an intuitive interface that streamlines AI workflows, model management, and production deployment.
