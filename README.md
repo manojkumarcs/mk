@@ -401,6 +401,7 @@
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 - [lighteval](https://github.com/huggingface/lighteval) - a lightweight LLM evaluation suite that Hugging Face has been using internally.
 - [simple-evals](https://github.com/openai/simple-evals) - Eval tools by OpenAI.
+- [BenchGen](https://benchgen.com) - AI agent benchmarking and evaluation platform. Score agent runs across tool-call accuracy, goal completion, and skill coverage, then export filtered trajectories for fine-tuning.
 
 <details>
 <summary>other evaluation frameworks</summary>
