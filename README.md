@@ -484,6 +484,7 @@
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) — A Python library for augmenting LLM apps with data.
+- [OpenAgentFlow](https://github.com/OpenAgentFlow/OpenAgentFlow) - A zero-dependency compiler and text-based Domain-Specific Language (DSL) for defining portable AI agent workflows.
 
 <details>
 <summary>more applications</summary>
