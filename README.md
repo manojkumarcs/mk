@@ -482,6 +482,7 @@
 ## LLM Applications
 > Reference: [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
+- [IHUI-AI](https://github.com/IHUI-INF-AI/IHUI-AI) - 8-platform full-stack AI operating system (web/API/AI-service/CLI/desktop/extension/mobile/miniapp) unifying 176 LLMs via LangGraph + MCP + A2A. 340 tables, 1300+ APIs, Apache 2.0 commercial-friendly.
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) — A Python library for augmenting LLM apps with data.
 
