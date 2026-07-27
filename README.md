@@ -481,6 +481,7 @@
 
 ## LLM Applications
 > Reference: [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- [PromptTrace](https://prompttrace.airedlab.com) - Free, hands-on platform to practice LLM attacks & defenses (prompt injection, jailbreaks, RAG poisoning, tool/function-call abuse) against real models.
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) — A Python library for augmenting LLM apps with data.
