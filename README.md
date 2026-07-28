@@ -401,6 +401,7 @@
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 - [lighteval](https://github.com/huggingface/lighteval) - a lightweight LLM evaluation suite that Hugging Face has been using internally.
 - [simple-evals](https://github.com/openai/simple-evals) - Eval tools by OpenAI.
+- [StructEval](https://github.com/TIGER-AI-Lab/StructEval) - A TMLR 2025 benchmark evaluating LLM structured-output generation and format conversion across 18 formats and 44 task types, including rendered HTML and SVG outputs. [[paper](https://arxiv.org/abs/2505.20139)] [[project](https://structeval.github.io/)] [[dataset](https://huggingface.co/datasets/TIGER-Lab/StructEval)]
 
 <details>
 <summary>other evaluation frameworks</summary>
