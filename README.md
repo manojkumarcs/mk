@@ -480,6 +480,8 @@
 
 
 ## LLM Applications
+
+- [FlintAPI](https://flintapi.ai) — Smart routing engine. Auto-decomposes prompts, dispatches to optimal models (DeepSeek, Qwen, GLM, etc.), synthesizes results. OpenAI-compatible. [Demo](https://flintapi.ai/demo)
 > Reference: [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
