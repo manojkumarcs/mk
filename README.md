@@ -555,6 +555,7 @@
 - [Andrej Karpathy Series](https://www.youtube.com/@AndrejKarpathy) - My favorite!
 - [Umar Jamil Series](https://www.youtube.com/@umarjamilai) - high quality and educational videos you don't want to miss.
 - [Alexander Rush Series](https://rush-nlp.com/projects/) - high quality and educational materials you don't want to miss.
+- [AMD Strix Halo Local LLM Guide](https://github.com/hogeheer499-commits/strix-halo-guide) - Reproducible Ubuntu, Ollama, llama.cpp, Vulkan/RADV, and ROCm setup with public benchmark evidence for Ryzen AI MAX+ 395 systems.
 - [llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [UWaterloo CS 886](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/) - Recent Advances on Foundation Models.
 - [CS25-Transformers United](https://web.stanford.edu/class/cs25/)
