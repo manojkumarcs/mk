@@ -364,6 +364,12 @@
 
 </details>
 <details>
+<summary>TIGER AI Lab</summary>
+
+  - [FIM-Midtraining-7|8|14B](https://huggingface.co/collections/TIGER-Lab/fim-midtraining) - Function-aware fill-in-the-middle mid-training models for coding agents. [paper](https://arxiv.org/abs/2607.12463) [code](https://github.com/TIGER-AI-Lab/FIM-Midtraining)
+
+</details>
+<details>
 <summary>DataBricks</summary>
 
   - [MPT-7B](https://www.databricks.com/blog/mpt-7b)
