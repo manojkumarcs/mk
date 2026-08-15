@@ -605,6 +605,7 @@
 - [Cohere Summarize Beta](https://txt.cohere.ai/summarize-beta/) - Introducing Cohere Summarize Beta: A New Endpoint for Text Summarization
 - [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - ChatGPT Wrapper is an open-source unofficial Python API and CLI that lets you interact with ChatGPT.
 - [Cursor](https://www.cursor.so) - Write, edit, and chat about your code with a powerful AI.
+- [Entroly](https://github.com/juyterman1000/entroly) - Local-first MCP server for explicit-budget context selection, content-addressed exact recovery, and auditable Context Receipts.
 - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - an experimental open-source application showcasing the capabilities of the GPT-4 language model. 
 - [OpenAGI](https://github.com/agiresearch/OpenAGI) - When LLM Meets Domain Experts.
 - [EasyEdit](https://github.com/zjunlp/EasyEdit) - An easy-to-use framework to edit large language models.
