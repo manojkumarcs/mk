@@ -412,6 +412,7 @@
 - [Giskard](https://github.com/Giskard-AI/giskard) - Testing & evaluation library for LLM applications, in particular RAGs
 - [LangSmith](https://www.langchain.com/langsmith) - a unified platform from LangChain framework for: evaluation, collaboration HITL (Human In The Loop), logging and monitoring LLM applications.  
 - [Ragas](https://github.com/explodinggradients/ragas) - a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.
+- [OmnisBench](https://github.com/Fortitude-Group/OmnisBench) - Open, reproducible benchmark for LLM routing efficiency; publishes every model response and re-grades them offline to independently verify routing-savings claims. Apache-2.0.
 
 </details>
 
