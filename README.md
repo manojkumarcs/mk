@@ -570,6 +570,7 @@
 - [ICML2022-Welcome to the "Big Model" Era: Techniques and Systems to Train and Serve Bigger Models](https://icml.cc/virtual/2022/tutorial/18440)
 - [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
 - [LLM‑RL‑Visualized (EN)](https://github.com/changyeyu/LLM-RL-Visualized/blob/master/src/README_EN.md) | [LLM‑RL‑Visualized (中文)](https://github.com/changyeyu/LLM-RL-Visualized) - 100+  LLM / RL Algorithm Maps📚.
+- [nano-vLLM Interactive Guide](https://github.com/lora-sys/nano-vllm-interactive-guide) - A Chinese-first, browser-based interactive guide to vLLM internals, with no-GPU concept labs, source/trace anchors, and an optional CUDA runtime path for continuous batching, PagedAttention, KV/Prefix Cache, CUDA Graphs, quantization, and distributed inference.
 
 
 ## LLM Books
