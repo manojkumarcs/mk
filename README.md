@@ -484,6 +484,7 @@
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) — A Python library for augmenting LLM apps with data.
+- [MiniMax H3 1K prompt index](https://github.com/yangzhou-chaofan/minimax-h3-1000-prompts) - Curated 1K text-to-video prompt dataset for MiniMax H3 with prompt-structure anatomy and 10 reusable prompts.
 
 <details>
 <summary>more applications</summary>
