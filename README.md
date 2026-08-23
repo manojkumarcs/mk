@@ -570,6 +570,7 @@
 - [ICML2022-Welcome to the "Big Model" Era: Techniques and Systems to Train and Serve Bigger Models](https://icml.cc/virtual/2022/tutorial/18440)
 - [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
 - [LLM‑RL‑Visualized (EN)](https://github.com/changyeyu/LLM-RL-Visualized/blob/master/src/README_EN.md) | [LLM‑RL‑Visualized (中文)](https://github.com/changyeyu/LLM-RL-Visualized) - 100+  LLM / RL Algorithm Maps📚.
+- [Agent Harness Handbook (中文)](https://harness.zhigouread.com) - A systematic open-source handbook on the engineering layer around LLM agents: agent loops, context engineering, tools & MCP, memory, subagents, permissions, and evals, with 11 product teardowns (Claude Code, Cursor, Aider, Codex, Devin, Manus, etc.).
 
 
 ## LLM Books
