@@ -539,6 +539,7 @@
 - [Wallaroo.AI](https://github.com/WallarooLabs) - Deploy, manage, optimize any model at scale across any environment from cloud to edge. Let's you go from python notebook to inferencing in minutes.
 - [Dify](https://github.com/langgenius/dify) - An open-source LLM app development platform with an intuitive interface that streamlines AI workflows, model management, and production deployment.
 - [LazyLLM](https://github.com/LazyAGI/LazyLLM) - An open-source LLM app for building multi-agent LLMs applications in an easy and lazy way, supports model deployment and fine-tuning.
+- [piighost](https://github.com/Athroniaeth/piighost) - Anonymizes PII before it reaches the LLM by swapping values for placeholders and restoring them in the reply, so the provider only sees placeholders. Works as LangChain, Pydantic AI or LlamaIndex integrations, or an OpenAI-compatible proxy.
 - [MemFree](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment
 - [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - Open source AutoML tool for RAG. Optimize the RAG answer quality automatically. From generation evaluation datset to deploying optimized RAG pipeline.
 - [Epsilla](https://github.com/epsilla-cloud) - An all-in-one LLM Agent platform with your private data and knowledge, delivers your production-ready AI Agents on Day 1.
