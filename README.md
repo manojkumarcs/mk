@@ -475,6 +475,7 @@
 - [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training.
 - [prima.cpp](https://github.com/Lizonghang/prima.cpp) - A distributed implementation of llama.cpp that lets you run 70B-level LLMs on your everyday devices.
 - [deploy-llms-with-ansible](https://github.com/xamey/deploy-llms-with-ansible) - Easily deploy any LLM on a VM with minimal configuration, using Ansible.
+- [OrcaRouter Lite](https://github.com/Continuum-AI-Corp/OrcaRouter-Lite) - A self-hosted, OpenAI-compatible LLM router: bring your own provider keys and route across 100+ models with automatic failover, streaming, and cost/latency-based model selection.
 
 </details>
 
