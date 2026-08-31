@@ -548,6 +548,7 @@
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more.
 - [LangWatch](https://github.com/langwatch/langwatch) - Open-source LLM observability, prompt evaulation, and prompt optimzation platform.
 - [TensorZero](https://www.tensorzero.com/) - TensorZero is an open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
+- [FutureOS](https://github.com/futuregene/future-os) - One AI agent everywhere you work — a single Rust gRPC backend drives a terminal UI, desktop app, mobile apps, CLI, and IM bots with the same sessions, memory, and skills. Trust-first approval-gated tools, 3,800+ models, and a loop control plane for 24h+ runs.
 
 </details>
 
