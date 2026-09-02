@@ -514,6 +514,7 @@
 - [CAMEL](https://www.camel-ai.org/) - First LLM Multi-agent framework. 
 - [QA-Pilot](https://github.com/reid41/QA-Pilot) - An interactive chat project that leverages Ollama/OpenAI/MistralAI LLMs for rapid understanding and navigation of GitHub code repository or compressed file resources.
 - [Shell-Pilot](https://github.com/reid41/shell-pilot) - Interact with LLM using Ollama models(or openAI, mistralAI)via pure shell scripts on your Linux(or MacOS) system, enhancing intelligent system management without any dependencies.
+- [Signbee](https://github.com/signbee/mcp) - Two-party SES e-sign for AI agents. stdio MCP: npx -y signbee-mcp. Tools: send_document, send_document_pdf.
 - [MindSQL](https://github.com/Mindinventory/MindSQL) - A python package for Txt-to-SQL with self hosting functionalities and RESTful APIs compatible with proprietary as well as open source LLM.
 - [Langfuse](https://github.com/langfuse/langfuse) -  Open Source LLM Engineering Platform 🪢 Tracing, Evaluations, Prompt Management, Evaluations and Playground. 
 - [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build&auto-optimize LLM applications.
