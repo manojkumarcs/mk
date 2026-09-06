@@ -484,6 +484,7 @@
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) — A Python library for augmenting LLM apps with data.
+- [RCP](https://github.com/hasanraiyan/rcp) — REST Connector Protocol — lightweight MCP alternative for building AI agents from REST APIs. Stateless HTTP + `GET /manifest`, no protocol server. `rcp-sdk` with OpenAI/LangChain/Gemini adapters — build AI agents that use your REST API as tools.
 
 <details>
 <summary>more applications</summary>
