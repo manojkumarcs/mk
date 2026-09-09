@@ -610,6 +610,7 @@
 - [EasyEdit](https://github.com/zjunlp/EasyEdit) - An easy-to-use framework to edit large language models.
 - [chatgpt-shroud](https://github.com/guyShilo/chatgpt-shroud) - A Chrome extension for OpenAI's ChatGPT, enhancing user privacy by enabling easy hiding and unhiding of chat history. Ideal for privacy during screen shares.
 - [AI For Developers](https://aifordevelopers.org) - List of AI Tools and Agents for Developers
+- [Drevon](https://drevon.dev) - A console for GTM engineers, where AI agents run evidence-backed prospecting, signal tracking, account research, and inbound qualification through a native browser that uses your own LinkedIn, Sales Nav, and X logins, connecting the rest of your GTM stack over MCP, for individuals, teams, or self-hosted enterprise deployments.
 
 ## Contributing
 
