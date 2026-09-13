@@ -473,6 +473,7 @@
 - [Infinity](https://github.com/michaelfeil/infinity) - Inference for text-embeddings in Python
 - [LMDeploy](https://github.com/InternLM/lmdeploy) - A high-throughput and low-latency inference and serving framework for LLMs and VLs
 - [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training.
+- [deepseek-mla-kvcache](https://github.com/abhishek2512mishra/deepseek-mla-kvcache) - PyTorch reference implementation and KV cache memory scaling benchmarks for DeepSeek's Multi-Head Latent Attention (MLA) architecture with absorbed query decoding.
 - [prima.cpp](https://github.com/Lizonghang/prima.cpp) - A distributed implementation of llama.cpp that lets you run 70B-level LLMs on your everyday devices.
 - [deploy-llms-with-ansible](https://github.com/xamey/deploy-llms-with-ansible) - Easily deploy any LLM on a VM with minimal configuration, using Ansible.
 
