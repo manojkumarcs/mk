@@ -401,6 +401,7 @@
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 - [lighteval](https://github.com/huggingface/lighteval) - a lightweight LLM evaluation suite that Hugging Face has been using internally.
 - [simple-evals](https://github.com/openai/simple-evals) - Eval tools by OpenAI.
+- [MyriadBench](https://github.com/shyringo/myriad-bench) - A benchmark and evaluation suite for ability retention under interleaved, interrupted, interdependent tasks in a single agent session, ranked by one index (MI) anchored to isolated baselines.
 
 <details>
 <summary>other evaluation frameworks</summary>
