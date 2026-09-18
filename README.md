@@ -421,6 +421,7 @@
 
 - [Meta Lingua](https://github.com/facebookresearch/lingua) - a lean, efficient, and easy-to-hack codebase to research LLMs.
 - [Litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
+- [nanobrain](https://github.com/Agarwalrishu13/nanobrain) - Train your own LLM from scratch: a hand-written Llama-2 transformer and self-trained BPE tokenizer that exports models to a custom C engine; includes a full public training log.
 - [nanotron](https://github.com/huggingface/nanotron) - Minimalistic large language model 3D-parallelism training.
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale.
@@ -454,6 +455,7 @@
 - [SGLang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [vLLM](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++.
+- [nanollama.c](https://github.com/Agarwalrishu13/nanollama.c) - A complete LLM inference engine in ~1,400 lines of dependency-free C: forward pass, BPE tokenizer, hand-rolled thread pool, int8 quantization. No OpenMP, no BLAS.
 - [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [TGI](https://huggingface.co/docs/text-generation-inference/en/index) - a toolkit for deploying and serving Large Language Models (LLMs).
 - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - Nvidia Framework for LLM Inference
