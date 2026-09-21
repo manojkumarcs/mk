@@ -570,6 +570,7 @@
 - [ICML2022-Welcome to the "Big Model" Era: Techniques and Systems to Train and Serve Bigger Models](https://icml.cc/virtual/2022/tutorial/18440)
 - [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
 - [LLM‑RL‑Visualized (EN)](https://github.com/changyeyu/LLM-RL-Visualized/blob/master/src/README_EN.md) | [LLM‑RL‑Visualized (中文)](https://github.com/changyeyu/LLM-RL-Visualized) - 100+  LLM / RL Algorithm Maps📚.
+- [QuiddityML](https://quiddityml.com/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-llm) - An app that teaches LLM fundamentals through short lessons and hands-on coding exercises with spaced repetition: tokenization (BPE, WordPiece), embeddings, language modeling, attention, building a GPT in PyTorch, transformer families, KV cache, scaling laws, instruction tuning, RLHF, and DPO.
 
 
 ## LLM Books
