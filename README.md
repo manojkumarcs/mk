@@ -484,6 +484,7 @@
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) — A Python library for augmenting LLM apps with data.
+- [JIT Context OS](https://github.com/wojciechwiesner/jit-context-os) — A deterministic Just-In-Time Context & Epistemic Memory engine for autonomous AI agents. Sub-3ms hot-path, >85% prompt caching, and zero stale context conflicts. [Technical Report](https://doi.org/10.5281/zenodo.22649542)
 
 <details>
 <summary>more applications</summary>
