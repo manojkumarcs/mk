@@ -454,6 +454,7 @@
 - [SGLang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [vLLM](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++.
+- [NobodyWho](https://github.com/nobodywho-ooo/nobodywho) - On-device LLM inference engine in Rust (built on llama.cpp) for embedding local text generation, embeddings, and GBNF grammar-constrained output into games and apps.
 - [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [TGI](https://huggingface.co/docs/text-generation-inference/en/index) - a toolkit for deploying and serving Large Language Models (LLMs).
 - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - Nvidia Framework for LLM Inference
