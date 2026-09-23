@@ -453,6 +453,7 @@
 > Reference: [llm-inference-solutions](https://github.com/mani-kantap/llm-inference-solutions)
 - [SGLang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [vLLM](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
+- [SuperL8 Serve](https://github.com/jajmangold/superl8-serve) - OpenAI-compatible INT8 inference server for Volta/CMP GPUs using DP4A kernels. Continuous batching, CUDA graphs, speculative decode.
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++.
 - [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [TGI](https://huggingface.co/docs/text-generation-inference/en/index) - a toolkit for deploying and serving Large Language Models (LLMs).
