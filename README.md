@@ -548,7 +548,7 @@
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more.
 - [LangWatch](https://github.com/langwatch/langwatch) - Open-source LLM observability, prompt evaulation, and prompt optimzation platform.
 - [TensorZero](https://www.tensorzero.com/) - TensorZero is an open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
-- [Unified AI System](https://github.com/happy520ai/unified-ai-system) - A self-hosted AI gateway with virtual keys and periodic token budgets, exact + lexical-approximate response cache (byte-identical SSE replay), reverse MCP governance (any OpenAPI 3 spec becomes governed MCP tools), and chat-native Prometheus/Langfuse observability. Fake-provider-first: every feature works with zero credentials.
+- [Unified AI System](https://github.com/happy520ai/unified-ai-system) - A self-hosted AI gateway with virtual keys and periodic token budgets, exact + lexical-approximate response cache (byte-identical SSE replay), reverse MCP governance (each unambiguous OpenAPI 3 operation becomes a governed MCP tool), and chat-native Prometheus/Langfuse observability. Fake-provider-first: every feature works with zero credentials.
 
 </details>
 
