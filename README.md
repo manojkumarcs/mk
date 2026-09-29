@@ -396,6 +396,7 @@
 - [Datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
 - [Dingo](https://github.com/DataEval/dingo) - Dingo: A Comprehensive Data Quality Evaluation Tool
 - [FastDatasets](https://github.com/ZhuLinsen/FastDatasets) - A powerful tool for creating high-quality training datasets for Large Language Models
+- [dtflow](https://github.com/KenyonY/dtflow) - Terminal browser and CLI toolbox for LLM training data: inspect SFT/DPO/agent JSONL as conversations, filter with Python expressions, convert between formats and export to LLaMA-Factory / ms-swift / Axolotl.
 
 ## LLM Evaluation:
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
