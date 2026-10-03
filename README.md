@@ -479,8 +479,10 @@
 </details>
 
 
+
 ## LLM Applications
 > Reference: [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- [jarvis-refined](https://github.com/fideltfg/jarvis-refined) - Private voice-first AI assistant with local tools, swappable model providers, and cinematic browser HUD.
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) — A Python library for augmenting LLM apps with data.
