@@ -425,6 +425,7 @@
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale.
 - [torchtitan](https://github.com/pytorch/torchtitan) - A native PyTorch Library for large model training.
+- [Vivacious Cloud](https://github.com/Viavcious-cloud/vivacious-cli) - Zero-code multi-cloud training orchestrator with preflight VRAM guards and spot GPU arbitrage.
 
 <details>
 <summary>other frameworks</summary>
